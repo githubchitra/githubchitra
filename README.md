@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 💼 I'm currently working pursuing BTECH CSE from Graphic Era Hill University,Dehradun.
+- 💼 I'm currently pursuing BTECH CSE from Graphic Era Hill University,Dehradun.
 - 🌱 I'm passionate about Technology,Creativity,Badminton.
 - 📚 I'm constantly learning and exploring new technologies.
 - 🎯 My goal is to contribute in open source and personal growth.
