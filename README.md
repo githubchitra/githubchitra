@@ -12,6 +12,10 @@ Welcome to my GitHub profile!
 ## Skills
 
 - Programming Languages: C,python,C++.
+- Web Development:
+        - Frontend: React,HTML,CSS,JavaScript
+        - Backend: Node.js,Express
+- Other Skills: Data Structures and Algorithms(DSA).
 - Interests: Web Development,Machine Learning.
 
 Feel free to check out my repositories for more!
