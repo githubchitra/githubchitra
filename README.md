@@ -11,19 +11,19 @@ Welcome to my GitHub profile!
 
 ## Skills
 
-- *Web Development:*
-  - *Frontend:* React, HTML, CSS, JavaScript
-  - *Backend:* Node.js, Express
-- *Programming Languages:* C++, JavaScript
-- *Other Skills:* Data Structures and Algorithms (DSA)
-- *Interests:* Machine Learning, Web Development
+- Web Development:*
+  - Frontend: React, HTML, CSS, JavaScript
+  - Backend: Node.js, Express
+- Programming Languages: C, C++, Python
+- Other Skills: Data Structures and Algorithms (DSA)
+- Interests: Machine Learning, Web Development
 
 Feel free to check out my repositories for more!
 
 ## Connect with Me
 
-- Twitter: [https://twitter.com/Chitra__13](https://twitter.com/Chitra__13)
-- Linkedin: www.linkedin.com/in/chitra-pathak-061359289
+- Twitter: https://twitter.com/Chitra__13
+- Linkedin: https://www.linkedin.com/in/chitra-pathak-061359289/
 - Email: pathakchitra90@gmail.com
  
 Let's connect and collaborate!
