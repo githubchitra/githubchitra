@@ -1,22 +1,31 @@
 # Hi there, I'm Chitra Pathak 👋
 
-## 🚀 About Me
-
 🎓 B.Tech Computer Science Engineering student at Graphic Era Hill University, Dehradun.
 
-💻 Passionate about Software Development, Artificial Intelligence, Machine Learning, and Problem Solving.
+💻 Passionate about Artificial Intelligence, Machine Learning, Software Development, and Problem Solving.
 
-🌱 Currently learning:
+🤖 Experienced with:
 
 * Machine Learning
 * Deep Learning
-* Full Stack Development
-* System Design
+* Natural Language Processing (NLP)
+* Computer Vision
+* Transformer-based Models
+* Generative AI
+* Data Analysis and Visualization
 
-🏆 Solved coding problems on platforms like LeetCode and GeeksforGeeks.
+🌱 Currently exploring:
 
-🎯 Career Goal:
-To build impactful AI-powered solutions and contribute to innovative technology projects.
+* Large Language Models (LLMs)
+* AI Agents
+* MLOps
+* Advanced System Design
+
+🏆 Active problem solver on LeetCode and GeeksforGeeks.
+
+🚀 Interested in building intelligent systems that combine AI, automation, and real-world impact.
+
+🎯 Aspiring AI/ML Engineer and Software Developer focused on solving meaningful problems through technology.
 
 ---
 
