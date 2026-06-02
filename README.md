@@ -61,18 +61,8 @@ To build impactful AI-powered solutions and contribute to innovative technology 
 
 ## 📊 Coding Profiles
 
-* LeetCode
-* GeeksforGeeks
-* HackerRank
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=githubchitra\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=githubchitra\&layout=compact)
-
+* LeetCode : https://leetcode.com/u/Chitra_pathak/
+* GeeksforGeeks : https://www.geeksforgeeks.org/profile/pathakchg5jc
 ---
 
 ## 🌐 Connect With Me
