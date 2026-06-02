@@ -1,36 +1,88 @@
-# Hello, I'm Chitra Pathak! 👋
+# Hi there, I'm Chitra Pathak 👋
 
-Welcome to my GitHub profile!
+## 🚀 About Me
 
-## About Me
+🎓 B.Tech Computer Science Engineering student at Graphic Era Hill University, Dehradun.
 
-- 💼 I'm currently pursuing BTECH CSE from Graphic Era Hill University,Dehradun.
-- 🌱 I'm passionate about Technology,Creativity,Badminton.
-- 📚 I'm constantly learning and exploring new technologies.
-- 🎯 My goal is to contribute in open source and personal growth.
+💻 Passionate about Software Development, Artificial Intelligence, Machine Learning, and Problem Solving.
 
-## Skills
+🌱 Currently learning:
 
-- Web Development:*
-  - Frontend: React, HTML, CSS, JavaScript
-  - Backend: Node.js, Express
-- Programming Languages: C, C++, Python
-- Other Skills: Data Structures and Algorithms (DSA)
-- Interests: Machine Learning, Web Development
+* Machine Learning
+* Deep Learning
+* Full Stack Development
+* System Design
 
-Feel free to check out my repositories for more!
+🏆 Solved coding problems on platforms like LeetCode and GeeksforGeeks.
 
-## Connect with Me
+🎯 Career Goal:
+To build impactful AI-powered solutions and contribute to innovative technology projects.
 
-- Twitter: https://twitter.com/Chitra__13
-- Linkedin: https://www.linkedin.com/in/chitra-pathak-061359289/
-- Email: pathakchitra90@gmail.com
- 
-Let's connect and collaborate!
+---
 
-Thanks for stopping by! 😊
+## 🛠️ Skills & Technologies
 
-<!---
-githubchitra/githubchitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Programming Languages
+
+* C
+* C++
+* Python
+* JavaScript
+
+### Web Development
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Node.js
+* Express.js
+
+### Database
+
+* MySQL
+* MongoDB
+
+### AI & Machine Learning
+
+* Scikit-Learn
+* Pandas
+* NumPy
+* Matplotlib
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+---
+
+## 📊 Coding Profiles
+
+* LeetCode
+* GeeksforGeeks
+* HackerRank
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=githubchitra\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=githubchitra\&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: [pathakchitra90@gmail.com](mailto:pathakchitra90@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/chitra-pathak-061359289/
+
+🐦 Twitter/X: https://twitter.com/Chitra__13
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
