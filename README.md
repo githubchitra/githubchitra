@@ -1,87 +1,112 @@
 # Hi there, I'm Chitra Pathak 👋
 
-🎓 B.Tech Computer Science Engineering student at Graphic Era Hill University, Dehradun.
+🎓 Final-year **B.Tech Computer Science & Engineering** student at **Graphic Era Hill University, Dehradun**.
 
-💻 Passionate about Artificial Intelligence, Machine Learning, Software Development, and Problem Solving.
+💡 I'm passionate about building intelligent software that combines **Artificial Intelligence, Machine Learning, and Scalable Software Engineering** to solve real-world problems.
 
-🤖 Experienced with:
-
-* Machine Learning
-* Deep Learning
-* Natural Language Processing (NLP)
-* Computer Vision
-* Transformer-based Models
-* Generative AI
-* Data Analysis and Visualization
-
-🌱 Currently exploring:
-
-* Large Language Models (LLMs)
-* AI Agents
-* MLOps
-* Advanced System Design
-
-🏆 Active problem solver on LeetCode and GeeksforGeeks.
-
-🚀 Interested in building intelligent systems that combine AI, automation, and real-world impact.
-
-🎯 Aspiring AI/ML Engineer and Software Developer focused on solving meaningful problems through technology.
+Currently focused on **AI/ML, Large Language Models (LLMs), Computer Vision, Generative AI, and Backend Development**, while continuously strengthening my **Data Structures & Algorithms** and system design skills.
 
 ---
 
-## 🛠️ Skills & Technologies
+# 🚀 About Me
 
-### Programming Languages
+* 💻 Strong interest in **AI Engineering**, **Software Development**, and **Machine Learning Research**
+* 🧠 Regularly solve DSA problems on **LeetCode** and **GeeksforGeeks**
+* 🌱 Currently learning:
+
+  * Large Language Models (LLMs)
+  * AI Agents
+  * MLOps
+  * RAG Systems
+  * System Design
+* 🚀 Passionate about developing AI-powered applications with real-world impact
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
 
 * C
 * C++
 * Python
 * JavaScript
 
-### Web Development
+### 🌐 Web Development
 
 * HTML
 * CSS
-* JavaScript
 * React.js
 * Node.js
 * Express.js
+* REST APIs
 
-### Database
+### 🤖 AI & Machine Learning
 
-* MySQL
-* MongoDB
-
-### AI & Machine Learning
-
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing (NLP)
+* Transformer Models
+* Generative AI
 * Scikit-Learn
 * Pandas
 * NumPy
 * Matplotlib
 
-### Tools
+### 🗄️ Databases
+
+* MySQL
+* MongoDB
+
+### 🛠️ Tools & Platforms
 
 * Git
 * GitHub
 * VS Code
 * Postman
+* Jupyter Notebook
 
 ---
 
-## 📊 Coding Profiles
+# 📈 Current Interests
 
-* LeetCode : https://leetcode.com/u/Chitra_pathak/
-* GeeksforGeeks : https://www.geeksforgeeks.org/profile/pathakchg5jc
----
-
-## 🌐 Connect With Me
-
-📧 Email: [pathakchitra90@gmail.com](mailto:pathakchitra90@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/chitra-pathak-061359289/
-
-🐦 Twitter/X: https://twitter.com/Chitra__13
+* 🤖 Artificial Intelligence
+* 🧠 Large Language Models (LLMs)
+* 🔍 Retrieval-Augmented Generation (RAG)
+* 🤝 AI Agents
+* ⚙️ Backend Development
+* 📊 Data Engineering
+* ☁️ MLOps
+* 🏗️ System Design
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+# 🏆 Coding Profiles
+
+* **LeetCode:** https://leetcode.com/u/Chitra_pathak/
+* **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/pathakchg5jc
+
+---
+
+# 🌐 Connect With Me
+
+📧 **Email:** [pathakchitra90@gmail.com](mailto:pathakchitra90@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/chitra-pathak-061359289/
+
+🐦 **X (Twitter):** https://twitter.com/Chitra__13
+
+---
+
+## 📌 Goals for 2026
+
+* 🚀 Build impactful AI and full-stack projects
+* 📚 Master advanced DSA and System Design
+* 🤖 Explore production-ready AI systems using LLMs and AI Agents
+* 💼 Contribute to open-source projects
+* 🌟 Secure a Software Development or AI/ML Engineer role
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories, collaborate on exciting projects, or connect with me.*
